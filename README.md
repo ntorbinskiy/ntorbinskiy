@@ -19,7 +19,7 @@
 Have a lovely day😃!
 
 
-
+[![Ntorbinskiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntorbinskiy&show_icons=true&theme=dark)](https://github.com/ntorbinskiy/github-readme-stats)
 
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white) 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
