@@ -32,11 +32,11 @@
 
 ##  How to reach me📫 
 
-    * 🔗 Telegram : @zxcpipka
+   * 🔗 Telegram : @zxcpipka
 
-    * 🔗 Discord  : Hat#7259
+   * 🔗 Discord  : Hat#7259
 
-    * 🔗 LinkedIn : [click it😉](https://www.linkedin.com/in/%D1%82%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-70918a262/)
+   * 🔗 LinkedIn : [click it😉](https://www.linkedin.com/in/%D1%82%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-70918a262/)
 
 Have a lovely day😃!
 
