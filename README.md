@@ -25,12 +25,35 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
  </div>
-
+<!-- 
 ## Github Stats📈
-
 [![Ntorbinskiy's GitHub stats light](https://github-readme-stats.vercel.app/api?username=ntorbinskiy&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/ntorbinskiy/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntorbinskiy&theme=dark&hide_border=true)](https://github.com/ntorbinskiy/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntorbinskiy&theme=dark&hide_border=true)](https://github.com/ntorbinskiy/github-readme-stats) -->
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/ntorbinskiy/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=ntorbinskiy&show_icons=true&hide_border=true&theme=dark" alt="Nikita's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/ntorbinskiy/github-readme-stats">
+            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntorbinskiy&theme=dark&hide_border=true" alt="Nikita's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+ 
 ## Currently working on🔭
 
 [AlexCode](https://alex-code.com/) and [Aiscout](https://aiscout.startotype.com/) projects🎉
