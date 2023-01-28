@@ -14,6 +14,6 @@ My name is Nikita, I'm 15 years old, have 1 year of expirience as front-end deve
     🔗 LinkedIn : [😉](https://www.linkedin.com/in/%D1%82%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-70918a262/)
 
 
--Have a nice day😃!
+Have a nice day😃!
 
 
