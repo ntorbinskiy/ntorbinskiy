@@ -26,6 +26,10 @@
 
  </div>
 
+## Github Stats📈
+
+[![Ntorbinskiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntorbinskiy&show_icons=true&theme=dark)](https://github.com/ntorbinskiy/github-readme-stats)
+
 ## Currently working on🔭
 
 [AlexCode](https://alex-code.com/) and [Aiscout](https://aiscout.startotype.com/) projects🎉
@@ -41,5 +45,5 @@
 Have a lovely day😃!
 
 
-[![Ntorbinskiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntorbinskiy&show_icons=true&theme=dark)](https://github.com/ntorbinskiy/github-readme-stats)
+
 
