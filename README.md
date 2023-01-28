@@ -28,7 +28,8 @@
 
 ## Github Stats📈
 
-[![Ntorbinskiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntorbinskiy&show_icons=true&theme=dark)](https://github.com/ntorbinskiy/github-readme-stats)
+[![Ntorbinskiy's GitHub stats light](https://github-readme-stats.vercel.app/api?username=ntorbinskiy&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/ntorbinskiy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntorbinskiy&theme=dark&hide_border=true)](https://github.com/ntorbinskiy/github-readme-stats)
 
 ## Currently working on🔭
 
