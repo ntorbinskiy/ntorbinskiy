@@ -1,6 +1,6 @@
 ## About me👏
 
-🎓My name is Nikita, I'm 16 years old, have 1 year of experience as front-end developer🎉
+🎓My name is Nikita, I have 2 year of experience as front-end developer🎉
 
 
 ## My tools and technologies🚀
