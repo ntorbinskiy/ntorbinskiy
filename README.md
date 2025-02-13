@@ -51,7 +51,7 @@
 
 ##  How to reach me📫 
 
-   * 🔗 Telegram : @zxcpipka
+   * 🔗 Telegram : @hatsaxii
 
    * 🔗 Discord  : hatsaxi
 
