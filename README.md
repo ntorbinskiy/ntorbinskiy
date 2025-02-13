@@ -55,6 +55,6 @@
 
    * 🔗 Discord  : hatsaxi
 
-   * 🔗 LinkedIn : [click it😉](https://www.linkedin.com/in/nikita-torbinskiy-70918a262/)
+   * 🔗 LinkedIn : [click it😉](https://www.linkedin.com/in/mykyta-torbynskyi-70918a262/)
 
 Have a lovely day😃!
