@@ -1,6 +1,6 @@
 ## About me👏
 
-🎓My name is Nikita, I have 4 years of experience as front-end developer🎉
+🎓My name is Mykyta, I have 4 years of experience as front-end developer🎉
 
 
 ## My tools and technologies🚀
