@@ -24,29 +24,11 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
  </div>
- 
-<div align="center">
-  <table width="100%">
-    <tbody>
-      <tr>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/ntorbinskiy/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntorbinskiy&theme=dark&hide_border=true" alt="Nikita's GitHub Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
 
 ##  How to reach me📫 
 
-   * 🔗 Telegram : @hatsaxii
-
-   * 🔗 Discord  : hatsaxi
+   * 🔗 Telegram : @hatsaxio
 
    * 🔗 LinkedIn : [click it😉](https://www.linkedin.com/in/mykyta-torbynskyi-70918a262/)
 
